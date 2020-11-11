@@ -1,0 +1,36 @@
+
+body {
+    background-image: url("../images/aquarium.jpg");
+    background-size: cover;
+}
+
+.bubbleClass {
+    position: absolute;
+    bottom: -100px;
+}
+
+img {
+    position: absolute;
+}
+
+#fish1Id {
+    position:fixed;
+}
+
+#fish2Id {
+    position:fixed;
+}
+            
+body{
+    height:  100%;
+    background-color: beige;
+}
+
+#myBox{
+    height: 50px;
+    width: 50px;
+    background-color: deepskyblue;
+    border: 1px solid grey;
+    position: relative;
+}
+        
